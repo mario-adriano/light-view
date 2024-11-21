@@ -32,7 +32,7 @@ gem "solid_cable"
 
 gem "roo", "~> 2.10.1"
 gem "daru", "~> 0.3"
-gem "spreadsheet", "~> 1.3.1", require: false # Necessário para integrar com Excel
+gem "spreadsheet", "~> 1.3.3", require: false # Necessário para integrar com Excel
 gem "matrix", "~> 0.4.2"
 gem "rack-mini-profiler" # Add speed badges [https://github.com/MiniProfiler/rack-mini-profiler]
 gem "chartkick"
